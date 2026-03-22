@@ -1,0 +1,16 @@
+{
+  "name": "LedgerHub",
+  "short_name": "LedgerHub",
+  "description": "Smart Invoicing, Accounting & Inventory for Indian SMEs",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#135465",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
