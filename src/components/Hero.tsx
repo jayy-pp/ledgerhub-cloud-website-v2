@@ -162,7 +162,7 @@ export default function Hero() {
 
             {/* HACK #3: Conversational, human headline */}
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-white leading-tight mb-4">
-              Tired of Messy{" "}
+              Drowning in{" "}
               <span
                 style={{
                   background: "linear-gradient(135deg, #f97316, #fb923c)",
@@ -171,10 +171,10 @@ export default function Hero() {
                   backgroundClip: "text",
                 }}
               >
-                Spreadsheets?
+                Bills, Books & Stock?
               </span>
               <br />
-              We&rsquo;ll Handle Your Books.
+              Effortless, Finally
             </h1>
 
             <p className="text-lg md:text-xl text-white/80 mb-8 leading-relaxed">
@@ -241,7 +241,7 @@ export default function Hero() {
             {/* Main card */}
             <div className="relative bg-white rounded-2xl shadow-2xl overflow-hidden animate-float">
               <Image
-                src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80"
+                src="/images/hero.jpg"
                 alt="LedgerHub dashboard showing invoices and accounting analytics"
                 width={800}
                 height={540}
