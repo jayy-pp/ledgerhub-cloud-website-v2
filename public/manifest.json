@@ -1,16 +1,32 @@
 {
-  "name": "LedgerHub",
+  "name": "LedgerHub - Smart Invoicing & Accounting for Indian SMEs",
   "short_name": "LedgerHub",
-  "description": "Smart Invoicing, Accounting & Inventory for Indian SMEs",
+  "description": "GST-compliant invoicing, accounting & inventory management software for Indian small and medium enterprises. Trusted by 2,500+ businesses.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#135465",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-IN",
+  "categories": ["business", "finance", "productivity"],
   "icons": [
     {
       "src": "/favicon.ico",
       "sizes": "64x64",
       "type": "image/x-icon"
+    },
+    {
+      "src": "/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
