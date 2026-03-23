@@ -1,4 +1,4 @@
-
+1.0.0
 ## Getting Started
 
 First, run the development server:
